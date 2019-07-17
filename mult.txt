@@ -1,0 +1,12 @@
+ The multiplication table of           4 is           4
+ The multiplication table of           4 is           8
+ The multiplication table of           4 is          12
+ The multiplication table of           4 is          16
+ The multiplication table of           4 is          20
+ The multiplication table of           4 is          24
+ The multiplication table of           4 is          28
+ The multiplication table of           4 is          32
+ The multiplication table of           4 is          36
+ The multiplication table of           4 is          40
+ The multiplication table of           4 is          44
+ The multiplication table of           4 is          48

@@ -15,5 +15,7 @@ read*, r
 
 do i=1,12
     print*, "Multiplication table of",r,'*',i,"=",r*i
+    open(UNIT = 7, FILE = "mult.txt")
+    write(7, *) "The multiplication table of", r, 'is', r*i
 end do
 end program today
