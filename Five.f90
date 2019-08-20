@@ -4,13 +4,7 @@ implicit none
 real :: mean , StdDev , var
 real, dimension(10) :: data
 real , allocatable , dimension(:) :: datum
-integer :: i , counter , j
-j = 0
-do i =1
-    read(5,*) datum(i)
-    j = j+1
-    exit
-end do
+integer :: i , counter 
 OPEN(UNIT = 5, FILE = "input.txt")
 mean = 0.0
 counter = 0.0
